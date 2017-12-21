@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install type="game" version="2.0.0.0">
+	<folder>pantheonriseofthefallen</folder>
+	<name>pantheonriseofthefallen</name>
+	<author>Gaspel</author>
+	<authorEmail>thomas@gaspel.com</authorEmail>
+	<creationDate>1505469543</creationDate>
+	<copyright>(C)Gaspel.com</copyright>
+	<version>0.31a</version>
+	<level>stable</level>
+</install>
